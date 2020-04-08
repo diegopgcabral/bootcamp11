@@ -7,20 +7,6 @@
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node?color=%2304D361">
-
-  <a href="https://www.linkedin.com/in/diego-pg-cabral/">
-    <img alt="Made by Diego Cabral" src="https://img.shields.io/badge/made%20by-diegopcabral-%2304D361">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node?style=social">
-  </a>
-</p>
-
-<p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
