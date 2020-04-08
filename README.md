@@ -1,6 +1,6 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 <h2 align="center">
-  Estudos Bootcamp GoStack
+  Estudos Bootcamp GoStack 11 - 2020
 </h2>
 
 ## Índice dos estudos
