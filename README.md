@@ -5,6 +5,8 @@
 
 ## Índice dos estudos
 
+- [00 - Desafio organizando meus estudos](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-organizando-estudos)
+
 - [01 - Back-end com Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/conceitos-dev/backend)
 
 - [02 - Desafio Conceitos Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node)

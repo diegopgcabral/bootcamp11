@@ -39,7 +39,7 @@ Para começar a utilizar o modelo, você deve acessar o link disponibilizado aba
 ### Cronograma diário
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
+  <img width="80%" src="./assets/cronograma_diario.png">
 </p>
 
 ## :calendar: Entrega
