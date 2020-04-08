@@ -7,6 +7,8 @@
 
 - [01 - Back-end com Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/conceitos-dev/backend)
 
+- [02 - Desafio Conceitos Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
