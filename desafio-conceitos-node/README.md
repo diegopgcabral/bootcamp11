@@ -9,8 +9,8 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  <a href="https://www.linkedin.com/in/diego-pg-cabral/">
+    <img alt="Made by Diego Cabral" src="https://img.shields.io/badge/made%20by-diegopcabral-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -94,4 +94,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Diego Cabral :wave: [Linkedin](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Diego Cabral :wave: [Linkedin](https://www.linkedin.com/in/diego-pg-cabral/)
