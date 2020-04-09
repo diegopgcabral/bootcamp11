@@ -30,6 +30,10 @@ Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de exe
   <img  src="./assets/nodejs-example2.png">
 </p>
 
+<p align="center">
+  <img  src="./assets/tdd.png">
+</p>
+
 ### Rotas da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo app.js, e completar onde não possui código com o código para atingir os objetivos de cada rota.
