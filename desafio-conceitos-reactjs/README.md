@@ -28,10 +28,12 @@ Agora que você já está com o template clonado, e pronto para continuar, você
 
 - **`Remover um repositório da sua API`**: Para cada item da sua lista, deve possuir um botão com o texto **Remover** que, ao clicar, irá chamar uma função para remover esse item da lista do seu frontend e da sua API.
 
-### Desafio Finalizado
+<h3 align="center">
+  Desafio Finalizado
+</h3>
 
 <p align="center">
-  <img  src="./assets/react_app.gif">
+  <img src="./assets/react_app.gif">
 </p>
 
 ### Específicação dos testes
