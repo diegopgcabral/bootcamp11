@@ -13,6 +13,13 @@ div {
   margin: 20px;
 }
 
+header {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #7159c1;
+  font-weight: bold;
+}
+
 div li {
   display: flex;
   align-items: center;

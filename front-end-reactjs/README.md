@@ -8,15 +8,15 @@
 
 ## Assuntos abordados:
 
-1. Conceitos ReactJS
-2. Configurando Babel
-3. Configurando WebPack
-4. Componentização
-5. Propriedades
-6. Estado e Imutabilidade
-7. Importando CSS e imagens
-8. Listando projetos da API
-9. Cadastrando projetos
+01. Conceitos ReactJS
+02. Configurando Babel
+03. Configurando WebPack
+04. Componentização
+05. Propriedades
+06. Estado e Imutabilidade
+07. Importando CSS e imagens
+08. Listando projetos da API
+09. Cadastrando projetos
 
 ---
 

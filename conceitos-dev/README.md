@@ -8,15 +8,15 @@
 
 ## Assuntos abordados:
 
-1. Conceitos NodeJS
-2. Conceitos API Rest
-3. Criando Projeto Node
-4. Configurando Nodemon
-5. Métodos HTTP
-6. Utilizando Insomnia
-7. Tipos de Parâmetros
-8. Aplicação Funcional
-9. Middlewares
+01. Conceitos NodeJS
+02. Conceitos API Rest
+03. Criando Projeto Node
+04. Configurando Nodemon
+05. Métodos HTTP
+06. Utilizando Insomnia
+07. Tipos de Parâmetros
+08. Aplicação Funcional
+09. Middlewares
 
 ---
 
