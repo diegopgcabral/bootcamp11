@@ -4,7 +4,7 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
-<p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
+<p align="center">Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu com Node.js!</blockquote>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

@@ -1,10 +1,10 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-<h3 align="center">
-  Desafio 1: Planejando meus estudos
-</h3>
+<h2 align="center">
+  Desafio 1: Organizando meus estudos
+</h2>
 
-<p align="center">“Sua única limitação é você mesmo”!</blockquote>
+<p align="center">Criar um cronograma de estudos e definir os objetivos</blockquote>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

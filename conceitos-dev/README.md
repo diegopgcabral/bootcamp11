@@ -1,7 +1,10 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
 <h2 align="center">
-  Back-end com Node.js
+  Módulo: Back-end com Node.js
 </h2>
+
+<p align="center">Nesse módulo iremos conhecer os primeiros conceitos do Node.js e aplicá-los na construção da nossa primeira aplicação backend.</blockquote>
 
 ## Assuntos abordados:
 

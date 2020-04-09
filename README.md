@@ -5,13 +5,13 @@
 
 ## Índice dos estudos
 
-- [00 - Desafio organizando meus estudos](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-organizando-estudos)
+- [00 - Desafio: Organizando meus estudos](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-organizando-estudos)
 
-- [01 - Back-end com Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/conceitos-dev)
+- [01 - Módulo: Back-end com Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/conceitos-dev)
 
-- [02 - Desafio Conceitos Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node)
+- [02 - Desafio: Conceitos do Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node)
 
-- [03 - Front-end com ReactJS](https://github.com/diegopgcabral/bootcamp11/tree/master/front-end-reactjs)
+- [03 - Módulo: Front-end com ReactJS](https://github.com/diegopgcabral/bootcamp11/tree/master/front-end-reactjs)
 
 ## :memo: Licença
 
