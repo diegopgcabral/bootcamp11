@@ -1,8 +1,10 @@
 const express = require('express');
+const cors = require('cors');
 const { uuid, isUuid } = require('uuidv4');
 
 const app = express();
 
+app.use(cors());
 app.use(express.json());
 
 const projects = [];
@@ -12,11 +14,9 @@ function logRequest( req, res, next) {
 
   const logLabel = `♻ [${method.toUpperCase()}] ${url}`;
 
-  console.time(logLabel);
+  console.log(logLabel);
 
   next();
-
-  console.timeEnd(logLabel);
 }
 
 function validateProjectId( req, res, next) {
