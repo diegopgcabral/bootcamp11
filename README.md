@@ -11,6 +11,8 @@
 
 - [02 - Desafio Conceitos Node.js](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-node)
 
+- [03 - Front-end com ReactJS](https://github.com/diegopgcabral/bootcamp11/tree/master/front-end-reactjs)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
