@@ -15,6 +15,8 @@
 
 - [04 - Desafio: Conceitos do ReactJS](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-reactjs)
 
+- [05 - Módulo: Mobile com React Native](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-reactjs)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
