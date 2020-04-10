@@ -20,4 +20,4 @@
 
 ---
 
-Feito com 💜 by Diego Cabrall :wave: [Linkedin](https://www.linkedin.com/in/diego-pg-cabral/)
+Feito com 💜 by Diego Cabral :wave: [Linkedin](https://www.linkedin.com/in/diego-pg-cabral/)
