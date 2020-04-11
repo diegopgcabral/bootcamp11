@@ -19,6 +19,8 @@
 
 - [06 - Desafio: Conceitos do React Native](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-react-native)
 
+- [07 - Módulo: TypeScript](https://github.com/diegopgcabral/bootcamp11/tree/master/conceitos-typescript)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
