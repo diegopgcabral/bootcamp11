@@ -15,7 +15,7 @@
 
 - [04 - Desafio: Conceitos do ReactJS](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-reactjs)
 
-- [05 - Módulo: Mobile com React Native](https://github.com/diegopgcabral/bootcamp11/tree/master/mobile_react_native)
+- [05 - Módulo: Mobile com React Native](https://github.com/diegopgcabral/bootcamp11/tree/master/mobile-react-native)
 
 - [06 - Desafio: Conceitos do React Native](https://github.com/diegopgcabral/bootcamp11/tree/master/desafio-conceitos-react-native)
 
