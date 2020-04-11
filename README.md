@@ -17,6 +17,8 @@
 
 - [05 - Módulo: Mobile com React Native](https://github.com/diegopgcabral/bootcamp11/tree/master/mobile_react_native)
 
+- [06 - Desafio: Conceitos do React Native](https://github.com/diegopgcabral/bootcamp11/tree/master/mobile_react_native)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
