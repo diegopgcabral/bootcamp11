@@ -21,6 +21,8 @@
 
 - [07 - Módulo: TypeScript](https://github.com/diegopgcabral/bootcamp11/tree/master/conceitos-typescript)
 
+- [07 - Módulo: Primeiro projeto com Node.JS](https://github.com/diegopgcabral/bootcamp11/tree/master/primeiro-projeto-node)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
