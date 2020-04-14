@@ -23,6 +23,8 @@
 
 - [07 - Módulo: Primeiro projeto com Node.JS](https://github.com/diegopgcabral/bootcamp11/tree/master/primeiro-projeto-node)
 
+- [08 - Desafio: Fundamentos com Node.JS](https://github.com/diegopgcabral/desafio-fundamentos-node)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
