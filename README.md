@@ -27,6 +27,8 @@
 
 - [09 - Módulo: Primeiro projeto com ReactJS](https://github.com/diegopgcabral/primeiro-projeto-reactjs)
 
+- [10 - Desafio: GoFinances Web](https://github.com/diegopgcabral/GoFinances-web)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
