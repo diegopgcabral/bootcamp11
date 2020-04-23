@@ -25,10 +25,12 @@
 
 - [08 - Desafio: Fundamentos com Node.JS](https://github.com/diegopgcabral/desafio-fundamentos-node)
 
+- [09 - Módulo: Primeiro projeto com ReactJS](https://github.com/diegopgcabral/primeiro-projeto-reactjs)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com 💜 by Diego Cabral :wave: [Linkedin](https://www.linkedin.com/in/diego-pg-cabral/)
+Feito com ☕ e 💜 by Diego Cabral :wave: [Linkedin](https://www.linkedin.com/in/diego-pg-cabral/)
