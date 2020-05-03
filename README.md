@@ -29,6 +29,8 @@
 
 - [10 - Desafio: GoFinances Web](https://github.com/diegopgcabral/GoFinances-web)
 
+- [11 - GoBarber](https://github.com/diegopgcabral/gobarber)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
