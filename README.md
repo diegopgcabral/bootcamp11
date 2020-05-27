@@ -31,7 +31,7 @@
 
 - [11 - GoBarber](https://github.com/diegopgcabral/gobarber)
 
-- [12 - Desafio fundamentos React Native](https://github.com/diegopgcabral/desafio-fundamentos-react-native)
+- [12 - Desafio: Fundamentos React-Native](https://github.com/diegopgcabral/desafio-fundamentos-react-native)
 
 ## :memo: Licença
 
