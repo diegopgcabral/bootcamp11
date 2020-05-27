@@ -31,6 +31,8 @@
 
 - [11 - GoBarber](https://github.com/diegopgcabral/gobarber)
 
+- [12 - Desafio fundamentos React Native](https://github.com/diegopgcabral/desafio-fundamentos-react-native)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
